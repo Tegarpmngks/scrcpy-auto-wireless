@@ -38,8 +38,8 @@ goto start
 **Other command have either ::notes on it or just a basic adb & scrcpy command**
 
 # Credits
-scrcpy - https://github.com/genymobile/scrcpy
-adb - https://developer.android.com/tools/adb
+- scrcpy - https://github.com/genymobile/scrcpy
+- adb - https://developer.android.com/tools/adb
 
 Codes written by myself with help of
 - Searching through Google for adb command
