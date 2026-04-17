@@ -4,7 +4,7 @@
 You can download the latest scrcpy version from it's official repository (I suggest you to download it here since it's the only official source)
 https://github.com/genymobile/scrcpy
 
-ONLY DOWNLOAD THE ```[scrcpy Auto-Connect & IP Grab].bat``` FILE, then place it inside the scrcpy folder
+- ONLY DOWNLOAD THE ```[scrcpy Auto-Connect & IP Grab].bat``` FILE, then place it inside the scrcpy folder
 
 This batch script I wrote out of boredom is just for automating scrcpy connection on older devices (Oppo A3s with Android 8 to be exact)
 
