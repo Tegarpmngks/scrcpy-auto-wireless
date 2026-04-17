@@ -4,6 +4,8 @@
 You can download the latest scrcpy version from it's official repository (I suggest you to download it here since it's the only official source)
 https://github.com/genymobile/scrcpy
 
+ONLY DOWNLOAD THE ```[scrcpy Auto-Connect & IP Grab].bat``` FILE, then place it inside the scrcpy folder
+
 This batch script I wrote out of boredom is just for automating scrcpy connection on older devices (Oppo A3s with Android 8 to be exact)
 
 # How does it works??
@@ -35,5 +37,14 @@ goto start
 
 **Other command have either ::notes on it or just a basic adb & scrcpy command**
 
-You may modify the code as wanted (as it's not encrypted in any way and it's on plain .bat file)
+# Credits
+scrcpy - https://github.com/genymobile/scrcpy
+adb - https://developer.android.com/tools/adb
 
+Codes written by myself with help of
+- Searching through Google for adb command
+- Asking Gemini for how to ignore the ipv6 in ip querying
+
+You may modify the code as wanted (as it's not encrypted in any way and it's on plain .bat file), I provided the batch script as is, and not be responsible on how you used it (but welp, it's just a harmless batch script so idk man, just to be careful)
+
+Sorry for my bad English word choice in some part as it's not my native language ✌
